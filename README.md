@@ -1,5 +1,7 @@
 # Wemos Battery Monitor with OLED Display
 
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 This is a little analog battery monitor for my sump pump system that has
 a DC battery backup.  It uses a Wemos D1 ESP8266 dev board, OLED display,
 breakout board for wiring.
@@ -16,6 +18,11 @@ For the sake of posterity I included it in the docs folder in this repo.
 # Changelog
 2022/11/22 - Initial upload
 
+# Parts
+
+[HiLetgo 0.66 inch OLED 0.66" OLED Mini OLED Shield with I2C/IIC 64x48 Pixels 3.3V](https://smile.amazon.com/dp/B01MZYYHHD)
+
+[Ximimark 5Sets WeMos D1 Mini Prototype Board XD-08 ProtoBoard Shield Double Sided Perf Board for Arduino](https://smile.amazon.com/dp/B07L756KQS)
 
 ## Design
 
